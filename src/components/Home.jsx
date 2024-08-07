@@ -9,7 +9,7 @@ function Home() {
       </div>
 
       <Link to="/play" className="absolute left-[50%] top-[45%] -translate-x-[50%] border-[1px]  border-white shadow-[5px] px-[8px] py-[2px] text-white rounded ">
-        PLAY GAME
+        PLAY GAM
       </Link>
       
     </div>
