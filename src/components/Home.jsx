@@ -9,7 +9,11 @@ function Home() {
       </div>
 
       <Link to="/play" className="absolute left-[50%] top-[45%] -translate-x-[50%] border-[1px]  border-white shadow-[5px] px-[8px] py-[2px] text-white rounded ">
+<<<<<<< HEAD
         PLAY GAMe
+=======
+        PLAY GAM
+>>>>>>> 0c39e68f9da0f12ecba33cf3b1d16948981a47c6
       </Link>
       
     </div>
